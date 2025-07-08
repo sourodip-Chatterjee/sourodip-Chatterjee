@@ -1,6 +1,7 @@
 <!-- README.md -->
-![MasterHead](https://files.oaiusercontent.com/file-2soRCrjx5VwYM8uA57ZB1F?se=2025-07-08T14%3A48%3A39Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D58783c7a-5e23-4f28-be6e-df8f4815ee5d.jpg&sig=1HG1jdX5lGGoSv32jjz2hZ%2BtfMwB3GTK/%2BikBxPP2c8%3D)
-
+<p align="center">
+  <img src="https://github.com/sourodip-Chatterjee/assets/blob/main/banner.jpg" alt="Sourodip Banner" width="100%" />
+</p>
 
   🎓 B.Tech CSE (AI) | 💻 Full-Stack & ML Developer | ☁️ Cloud Practitioner <br>
   📍 West Bengal, India | 📅 D.O.B: 27/01/2003
