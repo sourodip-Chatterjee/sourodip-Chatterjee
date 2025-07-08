@@ -1,22 +1,30 @@
 <!-- README.md -->
+![MasterHead](https://files.oaiusercontent.com/file-2soRCrjx5VwYM8uA57ZB1F?se=2025-07-08T14%3A48%3A39Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D58783c7a-5e23-4f28-be6e-df8f4815ee5d.jpg&sig=1HG1jdX5lGGoSv32jjz2hZ%2BtfMwB3GTK/%2BikBxPP2c8%3D)
 
-<h1 align="center">Hey there 👋, I'm Sourodip Chatterjee</h1>
 
-<p align="center">
   🎓 B.Tech CSE (AI) | 💻 Full-Stack & ML Developer | ☁️ Cloud Practitioner <br>
   📍 West Bengal, India | 📅 D.O.B: 27/01/2003
+ 
 </p>
 
 ---
+<img align="right" alt="Coding" width="400"
+     src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif"
+     style="margin-left: auto;" />
+<p align="center">
 
 ### 💫 About Me
-
+ 
 - 👨‍🎓 Recent graduate in **Computer Science & AI** with a CGPA of **8.27**
+  <br><br>
 - 🌱 Exploring Full-Stack Web Dev + Machine Learning + System Design
+   <br><br>
 - 🧠 Skilled in **Python**, **C++**, **AWS**, **SQL**, and **NLP**
+   <br><br>
 - 🚀 Built & deployed apps using **AWS EC2, S3, Lambda**, and Android Jetpack
+   <br><br>
 - 🤝 Passionate about teamwork, deadlines, and meaningful problem-solving
-
+<br><br>
 ---
 
 ### 🛠️ Tech Stack 
