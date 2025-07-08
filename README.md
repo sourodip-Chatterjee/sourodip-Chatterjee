@@ -19,17 +19,90 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 
+<p align="left">
+-->🧰 Languages and Tools 
 
-![Python](https://img.shields.io/badge/-Python-181717?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+<p align="left">
+
+<!-- Programming Languages -->
+<a href="https://www.python.org" target="_blank">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYzZzNDdrNGxhbXJ4NDhiZTU3emtkaW43eWZ4cmN4aHV2YXBsaGF5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/source.gif" alt="Python" width="60" />
+</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226082.png?f=webp&w=512" alt="C++" style="width: 60px; height: 60px; />
+</a>
+<a href="https://www.cprogramming.com/" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175247.png?f=webp&w=512" alt="C" width="60" />
+</a>
+<a href="https://kotlinlang.org" target="_blank">
+  <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/12/01135548/Android-Kotlin.gif" alt="Kotlin" style="width: 80px; height: 60px;" />
+</a>
+<p align="left">
+  
+ --> 💻 Web Technologies 
+ <p align="left">
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:900/0*2blaR2l8ZqJ-HAaV.gif" alt="HTML" style="width: 100px; height: 80px;" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://i.sstatic.net/ULs1E.gif" alt="CSS" style="width: 100px; height: 80px;" />
+</a>
+ <p align="left">
+--> 🏗️ Frameworks & Libraries 📚
+ <p align="left">
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-2-pack-logos-icons-2970205.png" alt="Django" width="70" />
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" alt="Flask" width="60" />
+</a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/42931974/68615320-d6bf3380-04e8-11ea-84f8-dcef049f1ed3.gif" alt="PyTorch" width="70" />
+</a>
+<a href="https://www.tensorflow.org" target="_blank">
+  <img src="https://blog.paperspace.com/content/images/2021/01/0_szgpfwmBY_CuZwP8-2.png" alt="TensorFlow" style="width: 80px; height: 70px;" />
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RATNRryzzlKQc_BwR8bjMJwTLQkBmC_UT4molxGWdMKPty85JetWIgYGe8kS7ZmuIXs&usqp=CAU" alt="Scikit-learn" style="width: 80px; height: 70px;" />
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://deepakrip007.wordpress.com/wp-content/uploads/2022/06/pandas-python.png" alt="Pandas" style="width: 80px; height: 70px;" />
+</a>
+ <p align="left">
+--> Databases  🛢🛢️
+    <p align="left">
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://media.tenor.com/NN9_wWaCxx8AAAAe/mysql.png" alt="MySQL" style="width: 80px; height: 70px;" />
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsSVd_OX-ESDSn9QlheJXslW1bo878VLCkRcrf0DfGGw1K_uIG9j5L7tpSpFuXztJG07s&usqp=CAU" alt="SQL Server" style="width: 100px; height: 70px;" />
+</a>
+ <p align="left">
+--> Platforms & DevOps ⚙️⚙️
+    <p align="left">
+<a href="https://aws.amazon.com" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUT_NZlaMQA02NOQ8q0vquJSM7ml5frbMJAWJVA6STzrxx3XkFseQ-hwTvWaEZTmk0goM&usqp=CAU" alt="AWS" width="70" />
+</a>
+<a href="https://cloud.google.com" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-google-cloud-logo-icon-download-in-svg-png-gif-file-formats--weather-storage-data-pack-logos-icons-1721675.png?f=webp&w=512" alt="GCP" width="60" />
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" />
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif" alt="Linux" width="55" />
+</a>
+<p align="left">
+--> 📱 Mobile 
+  <p align="left">
+<a href="https://developer.android.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" />
+</a>
+
+</p>
+
+
 
 ---
 
