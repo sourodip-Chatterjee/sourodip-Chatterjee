@@ -187,10 +187,20 @@ Techno India University, Salt Lake, WB
 
 ### 🧠 LeetCode Stats
 
-![LeetCode Streak](https://img.shields.io/badge/🔥%2050%2B%20Day%20Streak-blueviolet?style=for-the-badge&logo=leetcode)
-![LeetCode Streak](https://img.shields.io/badge/🔥%20100%2B%20Day%20Streak-purple?style=for-the-badge&logo=leetcode)
-![Still Going](https://img.shields.io/badge/-Still%20Continuing...-brightgreen?style=for-the-badge&logo=leetcode)
-[![LeetCode](https://img.shields.io/badge/-Visit%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Sourodip_Chatterjee)
+<p align="left">
+  <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="50+ Day Streak" width="150"/>
+  <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="100+ Day Streak" width="150"/>
+</p>
+
+<p>
+  <b>🔥 Still continuing...</b>  
+  <br>
+  <a href="https://leetcode.com/u/Sourodip_Chatterjee/">
+    ➤ View My LeetCode Profile
+  </a>
+</p>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sourodip_Chatterjee?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/Sourodip_Chatterjee/)
 
 ---
 
