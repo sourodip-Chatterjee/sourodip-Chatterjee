@@ -1,6 +1,6 @@
 <!-- README.md -->
 <p align="center">
-  <img src="https://github.com/sourodip-Chatterjee/assets/blob/main/banner.jpg?raw=true" alt="Sourodip's Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/image.png" alt="Sourodip's Banner" width="100%" />
 </p>
 
   🎓 B.Tech CSE (AI) | 💻 Full-Stack & ML Developer | ☁️ Cloud Practitioner <br>
