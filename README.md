@@ -1,6 +1,5 @@
 <!-- README.md -->
-![Banner](https://github.com/sourodip-Chatterjee/assets/blob/main/banner.jpg)
-
+<img src="https://github.com/sourodip-Chatterjee/assets/blob/main/banner.jpg?raw=true" alt="Banner" width="100%" />
 
   🎓 B.Tech CSE (AI) | 💻 Full-Stack & ML Developer | ☁️ Cloud Practitioner <br>
   📍 West Bengal, India | 📅 D.O.B: 27/01/2003
