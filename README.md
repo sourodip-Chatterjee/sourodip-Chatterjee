@@ -1,7 +1,6 @@
 <!-- README.md -->
-<p align="center">
-  <img src="https://github.com/sourodip-Chatterjee/assets/blob/main/banner.jpg" alt="Sourodip Banner" width="100%" />
-</p>
+![Banner](https://github.com/sourodip-Chatterjee/assets/blob/main/banner.jpg)
+
 
   🎓 B.Tech CSE (AI) | 💻 Full-Stack & ML Developer | ☁️ Cloud Practitioner <br>
   📍 West Bengal, India | 📅 D.O.B: 27/01/2003
