@@ -106,7 +106,7 @@
 --> 📱 Mobile 
   <p align="left">
 <a href="https://developer.android.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" />
+  <img src="https://cdn.dribbble.com/userupload/20261647/file/original-a2bcd8c571547e890595531813c7997f.gif" alt="Android" style="width: 100px; height: 70px;" />
 </a>
 
 </p>
