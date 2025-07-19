@@ -190,6 +190,7 @@ Techno India University, Salt Lake, WB
 <p align="left">
   <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="50+ Day Streak" width="150"/>
   <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="100+ Day Streak" width="150"/>
+  <img src="https://assets.leetcode.com/static_assets/others/lg200.png" alt="200+ Day Streak" width="150"/>
 </p>
 
 <p>
