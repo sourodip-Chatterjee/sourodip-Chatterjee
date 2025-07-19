@@ -207,11 +207,13 @@ Techno India University, Salt Lake, WB
 
 ### ⚡ Fun Fact
 
-> I turn ☕ into code, and bugs into features 💡  
-> Believe in **building daily, learning constantly, and helping others** 💬
+> Did you know that the first computer "bug" was an actual moth?💡 
+  > In 1947, a moth🦋 got stuck in a relay of the Harvard Mark II computer🖥️, causing it to malfunction🚨.
+  > Grace Hopper👩‍💼, a computer scientist, documented the incident in her logbook, and the term "bug" was 🎂born! 
+> The process of removing these "bugs" became known as "debugging."💬
 
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Sourodip Chatterjee</strong>
+  Made with ❤️ and 🙌(my fingers) by 👨‍💻<strong>Sourodip Chatterjee</strong>
 </p>
