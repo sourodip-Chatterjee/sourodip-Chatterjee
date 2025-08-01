@@ -119,12 +119,12 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔢 [TCS Stock Price Predictor](#) | ML-based forecasting model using feature selection | Python, Pandas, Sklearn |
-| 💬 [Social Media Sentiment Analyzer](#) | NLP model classifying tweets (Positive/Negative/Neutral) | Python, NLTK, SpaCy |
-| 📱 [Android Firebase App](#) | Auth + Realtime DB with Jetpack components | Kotlin, Firebase |
-| 🧾 [Document Summarizer](#) | Converts long text to TL;DR using NLP | Python, Transformers |
-| 🔍 [QR Code Tool](#) | Generate and scan QR Codes in GUI | Python, Tkinter |
-| ⏰ [Digital + Countdown Clock](#) | Real-time GUI clocks | Python, Tkinter |
+| 🔢 [TCS Stock Price Predictor](#) | ML-based forecasting model using feature selection | Python, Pandas, scikit-learn |
+| 💬 [Social Media Sentiment Analyzer](#) | Analyzes tweet sentiments as Positive, Negative, or Neutral using NLP. | Python, NLTK, SpaCy |
+| 📱 [Android Firebase App](#) | Android app with user authentication and real-time data storage. | Kotlin, Firebase |
+| 🧾 [Document Summarizer](#) | Automatically shortens long text into brief summaries (TL;DR). | Python, Transformers, NLP |
+| 🔍 [QR Code Tool](#) | Create and scan QR codes via a simple Python GUI. | Python, Tkinter, qrcode |
+| ⏰ [Rock-Paper-Scissors (with AdaptiveAI)](#) | Interactive CLI game with AI that learns and adapts to your moves.| Python, AI, colorama, JSON, File I/O |
 
 ---
 
