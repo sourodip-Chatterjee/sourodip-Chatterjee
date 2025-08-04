@@ -123,12 +123,12 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔢 [TCS Stock Price Predictor](#) | ML-based forecasting model using feature selection | Python, Pandas, scikit-learn |
-| 💬 [Social Media Sentiment Analyzer](#) | Analyzes tweet sentiments as Positive, Negative, or Neutral using NLP. | Python, NLTK, SpaCy |
+| 🔢 [TCS Stock Price Predictor](https://github.com/sourodip-Chatterjee/TCS_Stock_Price_Analysis) | ML-based forecasting model using feature selection | Python, Pandas, scikit-learn |
+| 💬 [Social Media Sentiment Analyzer](https://github.com/sourodip-Chatterjee/Twitter_Sentiment_Analysis) | Analyzes tweet sentiments as Positive, Negative, or Neutral using NLP. | Python, NLTK, SpaCy |
 | 📱 [Android Firebase App](#) | Android app with user authentication and real-time data storage. | Kotlin, Firebase |
-| 🧾 [Document Summarizer](#) | Automatically shortens long text into brief summaries (TL;DR). | Python, Transformers, NLP |
-| 🔍 [QR Code Tool](#) | Create and scan QR codes via a simple Python GUI. | Python, Tkinter, qrcode |
-| ⏰ [Rock-Paper-Scissors (with AdaptiveAI)](#) | Interactive CLI game with AI that learns and adapts to your moves.| Python, AI, colorama, JSON, File I/O |
+| 🧾 [Document Summarizer](https://github.com/sourodip-Chatterjee/Document_Summarizer) | Automatically shortens long text into brief summaries (TL;DR). | Python, Transformers, NLP |
+| 🔍 [QR Code Tool](https://github.com/sourodip-Chatterjee/QR_Code_Scanner) | Create and scan QR codes via a simple Python GUI. | Python, Tkinter, qrcode |
+| ⏰ [Rock-Paper-Scissors (with AdaptiveAI)](https://github.com/sourodip-Chatterjee/rockPaperScissors_WithAdaptiveAI) | Interactive CLI game with AI that learns and adapts to your moves.| Python, AI, colorama, JSON, File I/O |
 
 ---
 
