@@ -30,7 +30,7 @@ I focus on **building practical systems**, deploying them correctly, and improvi
 
 ### Languages
 <p>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/pythonGif.webp" width="45"/>
+<img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/pythonGif.webp" width="45"/>
   <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/cpp.webp" width="45"/>
   <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/c.webp" width="45"/>
   <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/Android-Kotlin.gif" style="width: 50px; height: 40px;"/>
@@ -182,9 +182,14 @@ CGPA: **8.27**
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sourodip-Chatterjee&cache_seconds=86400" width="420"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/ad2aedb7fc8c0ad5f294af950592bc821882f49a/Assets/leetCode%20Badges/download%20365%20LeetCode.png" width="140"/>
+</p>
 
-LeetCode Profile:  
-🔗 https://leetcode.com/u/Sourodip_Chatterjee/
+<p align="center">
+  <a href="https://leetcode.com/u/Sourodip_Chatterjee/">View my LeetCode profile</a>
+</p>
+
 
 ---
 
