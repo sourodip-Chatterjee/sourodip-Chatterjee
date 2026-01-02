@@ -6,7 +6,7 @@
 <h1 align="center">Sourodip Chatterjee</h1>
 
 <p align="center">
-  B.Tech CSE (AI) • Full-Stack Developer • Machine Learning  
+  B.Tech in Computer Science & Engineering (Artificial Intelligence) | Backend Developer (Python) | ML-focused  
   <br>
   West Bengal, India
 </p>
@@ -15,57 +15,43 @@
 
 ## About Me
 
-I am a **Computer Science & AI graduate (CGPA 8.27)** with hands-on experience in:
+I'm a **B.Tech graduate in Computer Science & Engineering (AI)** with a **CGPA of 8.27**, passionate about building robust, end-to-end Python systems. I specialize in backend development, applied machine learning, and creating clean, reproducible pipelines—from data preprocessing and model training to CLI tools and deployment.
 
-- Full-stack web development
-- Machine learning & NLP
-- Cloud deployment using AWS
-- Android application development
-
-I focus on **building practical systems**, deploying them correctly, and improving them through iteration — not just writing demo code.
+I emphasize **clean code architecture, separation of concerns, modularity, and persistence**, constantly improving projects through refactoring and best practices. I'm driven by solving real-world problems with scalable, maintainable solutions.
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Core Strengths
 <p>
-<img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/pythonGif.webp" width="45"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/cpp.webp" width="45"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/c.webp" width="45"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/Android-Kotlin.gif" style="width: 50px; height: 40px;"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/SQL_server.png" style="width: 50px; height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Python.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/C%2B%2B%20(CPlusPlus).png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/pandas.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/scikit-learn.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/git.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Linux.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/MySQL.png" width="45"/>
 </p>
 
-### Web & Backend
+### Solid Working Knowledge
 <p>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/html.gif" style="width: 50px; height: 40px;"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/css.gif" width="45"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/django.png" width="45"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/flask.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/C.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Flask_py.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/django.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/HTML5.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/CSS3.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/JavaScript.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/aws.jpg" width="45"/>
 </p>
 
-### Machine Learning
+### Exposure & Learning
 <p>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/pyTorch.gif" width="45"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/TensorFlow.png" style="width: 50px; height: 40px;"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/scikitLearn.png" width="45"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/pandas.png" width="45"/>
-</p>
-
-### Databases & Cloud
-<p>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/mySQL.gif" width="45"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/SQL_server.png" style="width: 50px; height: 40px;"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/aws.jpg" width="45"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/googleCloud.webp" width="45"/>
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/git.png" width="45"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/linux.gif" width="45"/>
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/main/AndroidDev.gif" style="width: 60px; height: 45px;"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/PyTorch.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/TensorFlow.png"  width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Tkinter1.jpg" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Android%20Studio.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/googleCloud.webp" width="45"/>
 </p>
 
 ---
@@ -73,147 +59,143 @@ I focus on **building practical systems**, deploying them correctly, and improvi
 ## Featured Projects
 
 ### TCS Stock Price Predictor
-**Machine Learning forecasting model for stock price trends**
+**Time-series analysis and short-term forecasting pipeline**
 
-- Feature engineering and data preprocessing
-- Model evaluation using historical data
-- Clear separation of training and inference logic
+- Built a complete preprocessing pipeline with feature engineering and leakage prevention
+- Implemented Linear Regression for next 5-day price prediction on historical TCS data
+- Visualized trends with interactive Plotly candlestick charts and actual vs. predicted comparisons
+- Focused on modular design separating data handling, modeling, and visualization
 
-**Tech:** Python, Pandas, scikit-learn  
+**Tech:** Python, Pandas, scikit-learn, Plotly  
 🔗 https://github.com/sourodip-Chatterjee/TCS_Stock_Price_Analysis
 
 ---
 
 ### Social Media Sentiment Analyzer
-**NLP system to classify social media text**
+**Real-time tweet sentiment classification system**
 
-- Tokenization and text normalization
-- Sentiment classification (Positive / Negative / Neutral)
-- Scalable pipeline for batch analysis
+- Integrated Twitter API (via Tweepy) to fetch live tweets by keyword/hashtag
+- Applied TextBlob for polarity-based classification (Positive / Negative / Neutral)
+- Built scalable batch processing with rate-limit handling and secure credential management
+- Added logging and environment-based configuration for production readiness
 
-**Tech:** Python, NLTK, SpaCy  
+**Tech:** Python, Tweepy, TextBlob, NLTK  
 🔗 https://github.com/sourodip-Chatterjee/Twitter_Sentiment_Analysis
 
 ---
 
 ### Rock–Paper–Scissors (Adaptive Strategy Engine)
+**Rule-based adaptive opponent with player behavior tracking**
 
-An experimental project exploring **rule-based adaptation and player behavior modeling**.
+- Developed an intelligent opponent that tracks player move frequencies and infers patterns from recent move history  
+- Implemented dynamic strategy adjustment (e.g., countering frequent moves, handling streaks)  
+- Added unit tests using Pytest for core game logic and edge cases  
+- Persisted game state and match history using CSV for cross-session analysis  
+- Included a colorful CLI interface and a basic Tkinter-based GUI prototype  
 
-- Tracks player move frequencies across rounds
-- Adjusts strategy dynamically based on opponent patterns
-- Uses persistent state via file I/O
-- Demonstrates feedback-loop driven decision making
 
-**Tech:** Python, JSON, CLI  
+**Tech:** Python, Colorama, Tkinter, CSV persistence  
 🔗 https://github.com/sourodip-Chatterjee/rockPaperScissors_WithAdaptiveAI
 
 ---
 
 ### Document Summarizer
-**Automatic text summarization tool**
+**Abstractive text summarization tool using large language models via OpenAI API**
 
-- Transformer-based summarization
-- Handles long documents effectively
-- Clean CLI / script interface
+- Created a CLI tool leveraging OpenAI's GPT-4 for high-quality summaries of long documents
+- Handled input size constraints with robust error management (API keys, file I/O, rate limits)
+- Designed modular structure for easy extension (e.g., different models or output formats)
 
-**Tech:** Python, NLP, Transformers  
+**Tech:** Python, OpenAI API, Transformers ecosystem  
 🔗 https://github.com/sourodip-Chatterjee/Document_Summarizer
 
 ---
 
 ### Android Firebase App
-**Authentication-based Android application**
+**User authentication and real-time database application**
 
-- Firebase Auth and real-time database
-- Clean UI with Jetpack components
-- Defensive crash handling
+- Implemented secure Firebase Authentication (email/password) and Firestore integration
+- Built clean UI with lifecycle-aware components and defensive error handling
+- Debugged memory leaks and crashes to ensure app stability
 
-**Tech:** Kotlin, Firebase  
+**Tech:** Kotlin, Firebase Authentication & Firestore, Android Studio  
 
 ---
 
 ## Education
 
-**B.Tech in Computer Science & Engineering (AI)**  
-Techno India University, Salt Lake  
+**B.Tech in Computer Science & Engineering (Artificial Intelligence)**  
+Techno India University, Salt Lake, West Bengal  
 2020 – 2024  
-CGPA: **8.27**
+**CGPA: 8.27**
 
 ---
 
-## Internships
+## Internships & Experience
 
 ### AWS Cloud Virtual Internship (AICTE)
 **Jan – Mar 2024**
 
-- Deployed multiple applications using EC2, S3, and Lambda
-- Applied cloud best practices for performance and reliability
+- Deployed serverless applications using EC2, S3, and Lambda
+- Applied cloud best practices for scalability, security, and cost optimization
 
 ---
 
 ### Android Development Internship (Google–AICTE)
 **Sept – Nov 2023**
 
-- Built a complete Android app with Firebase backend
-- Debugged memory and crash issues to improve stability
+- Developed a full-featured Android app with Firebase backend
+- Resolved memory, lifecycle, and crash issues for improved reliability
 
 ---
 
 ## Certifications
 
-- Python Programming – GeeksforGeeks (2025)
-- Blockchain and Applications – NPTEL
-- Data Analytics – Coursera
-- AI Constraint Satisfaction – NPTEL
+- Python Programming – GeeksforGeeks (Valid till 2026)
 - Cloud Computing – NPTEL
+- Data Analytics – Coursera
 
 ---
 
-## Problem-Solving
+## Problem Solving
+
+Strong focus on **arrays, strings, sliding window, greedy algorithms, and basic graphs**. Consistent daily practice on LeetCode with a 365-day streak.
 
 <p align="center">
   <a href="https://leetcode.com/u/Sourodip_Chatterjee/">
     <img src="https://leetcard.jacoblin.cool/Sourodip_Chatterjee?theme=dark&font=baloo&ext=heatmap" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sourodip-Chatterjee&cache_seconds=86400" width="420"/>
+  <img 
+    src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/lg365(LeetCode).png" 
+    width="120"
+    alt="365 Days LeetCode Badge"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github.com/sourodip-Chatterjee/sourodip-Chatterjee/blob/ad2aedb7fc8c0ad5f294af950592bc821882f49a/Assets/leetCode%20Badges/download%20365%20LeetCode.png" width="140"/>
-</p>
+---
 
-<p align="center">
-  <a href="https://leetcode.com/u/Sourodip_Chatterjee/">View my LeetCode profile</a>
-</p>
+## Currently Looking For
 
+- **Primary**: Backend Developer roles (Python/Flask/Django)
+- **Secondary**: Software Engineer (Fresher) – Full-stack or Backend
+- **Also Open To**: Entry-level Machine Learning / Data Engineering positions
+
+Eager for internships or full-time opportunities to contribute and grow.
 
 ---
 
 ## Contact
 
+- Resume: 📄 [Download PDF](https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Data/Resume_%20Sourodip_2026.pdf)
+- GitHub: https://github.com/sourodip-Chatterjee
 - LinkedIn: https://linkedin.com/in/sourodipchatterjee  
 - Email: mailto:dipsouro123@gmail.com  
-- GitHub: https://github.com/sourodip-Chatterjee
-
----
-
-### ⚡ Fun Fact
-
-> Did you know that the first computer **“bug”** was an actual moth? 💡  
->  
-> In **1947**, a moth 🦋 got stuck in a relay of the **Harvard Mark II** computer 🖥️, causing it to malfunction 🚨.  
->  
-> **Grace Hopper** documented the incident in her logbook, and the term **“bug”** was born.  
->  
-> The process of removing these bugs became known as **debugging**.
-
+- X: https://x.com/DipSouro_Chatt
 
 ---
 
 <p align="center">
-  Built by Sourodip Chatterjee
+  © Sourodip Chatterjee 
 </p>
