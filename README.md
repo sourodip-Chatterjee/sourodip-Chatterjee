@@ -27,10 +27,9 @@ I emphasize **clean code architecture, separation of concerns, modularity, and p
 <p>
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Python.png" width="45"/>
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/C%2B%2B%20(CPlusPlus).png" width="45"/>
-  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/pandas.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/scikit-learn.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/git.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Linux.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/HTML5.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/CSS3.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/JavaScript.png" width="45"/>
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/MySQL.png" width="45"/>
 </p>
 
@@ -39,10 +38,14 @@ I emphasize **clean code architecture, separation of concerns, modularity, and p
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/C.png" width="45"/>
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Flask_py.png" width="45"/>
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/django.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/HTML5.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/CSS3.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/JavaScript.png" width="45"/>
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/aws.jpg" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/pandas.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/scikit-learn.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/git.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Linux.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Node.js.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/React.png" width="45"/>
+  
 </p>
 
 ### Exposure & Learning
@@ -50,7 +53,11 @@ I emphasize **clean code architecture, separation of concerns, modularity, and p
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/PyTorch.png" width="45"/>
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/TensorFlow.png"  width="45"/>
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Tkinter1.jpg" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/MongoDB.png" width="45"/>
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Android%20Studio.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Docker.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/PostgresSQL.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/SQLite.png" width="45"/>
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/googleCloud.webp" width="45"/>
 </p>
 
