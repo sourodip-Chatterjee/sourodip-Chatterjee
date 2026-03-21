@@ -38,14 +38,13 @@ I emphasize **clean code architecture, separation of concerns, modularity, and p
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/C.png" width="45"/>
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Flask_py.png" width="45"/>
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/django.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/aws.jpg" width="45"/>
-  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/pandas.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/scikit-learn.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/git.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Linux.png" width="45"/>
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Node.js.png" width="45"/>
   <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/React.png" width="45"/>
-  
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/pandas.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/scikit-learn.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/Linux.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/aws.jpg" width="45"/>
+  <img src="https://raw.githubusercontent.com/sourodip-Chatterjee/sourodip-Chatterjee/main/Assets/Logos/git.png" width="45"/>
 </p>
 
 ### Exposure & Learning
